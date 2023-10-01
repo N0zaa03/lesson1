@@ -1,0 +1,14 @@
+{
+  "name": "lesson1",
+  "version": "1.0.0",
+  "description": "This serves as a Midterm Examination for Web Systems for the 1st Semester of A.Y 2023-2024",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Noza, Ariston Jr. G. || BSIT-3A",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^5.3.2"
+  }
+}
